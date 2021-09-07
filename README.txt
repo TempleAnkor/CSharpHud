@@ -4,7 +4,6 @@ ORIGIONALLY CREATED BY SHREDDER.
 ﻿C SHARP CUSTOM HUD for TEAM FORTRESS 2﻿
 VERSION 1.09 (UPDATE 2018-08-09)
 Developed by Shredder
-Maintained by Temple now i guess?
 
 This project utilizes Oxygen font by Vernon Adams
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
