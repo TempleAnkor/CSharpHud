@@ -1,0 +1,82 @@
+1.09 (UPDATE 2018-08-09)
+ • Resized and realigned timepanel in some lower resolutions						
+ • Resized respawntime for 32p servers
+ • Round indicators slightly resized
+ • Freezepanel moved to bottom center
+ • Quest Alert woosh sound (from Pauline's Incoming Message...) replaced with a blank file
+ • Pauline's "Give Contract" voiceover lines redefined to null.mp3 to avoid error in console			
+ • Unused captions defined to null to avoid errors spamming the console
+
+1.08 (UPDATE 2018-07-31)
+ • Compacted and adjusted transparency of teamstatus and roundcounter
+ • Properly centered timepanel labels in all resolutions
+ • Centered conditions label for 16:9 users in tournament readymode
+ • Resized and realigned heads and killstreak counters
+ • Fixed medals and avatars on scoreboard
+ • Removed Pauline's "Give Contract" lines (Quest Alert "woosh" sound still remains)
+ • Removed "Incoming Message" panel
+ • Updated notifications
+ • Updated training mode
+
+1.07 (UPDATE 2018-07-27)
+ • Redesigned tournament HUD to align with roundcounter
+ • Redesigned tournament setup
+ • Reduced transparency of shadows to prevent looking faded on some setups
+ • Prevented medic chargeamount sometimes appearing on tournament ready mode
+ • Increased max. players on competitive scoreboard to 32
+ • Realigned damage account (last hit)
+ • Realigned numplayers on control point capture
+ • Lowered spectator targetid
+ • Decreased size of head/crit and killstreak counters and icons
+ • Decreased font size of scores on CTF, PASS Time and halloween mini-games
+ • Recolored disguise numbers to match rest of in-game menus
+ • Prevented winpanel details ("Winning capture:") from occasionally cutting off
+ • Re-enabled "killed by the Sentry Gun of (the late)" on freezepanel
+ • Removed freezepanel callout ("A bit of you!")
+ • Decluttered "Contracts Available/Contract Inactive" panel
+ • Added hotkeys to charinfopanel to quickly close the menu (q)
+ • Existing hotkeys now detailed in README.txt
+ • Added support for transparent viewmodels
+ • Updated localization file overrides
+ • Updated captions
+
+1.06 (UPDATE 2018-07-06)
+ • Simplified competitive scoreboard
+ • Properly aligned the server timer
+ • Properly aligned cptimer (cp_degroot)
+ • Repositioned teamstatus respawntime shadow
+
+1.05 (UPDATE 2018-07-01)
+ • Removed deathpanel and skullpanel from teamstatus; repositioned, resized and animated respawntime
+ • Reduced overlap of winpanelbgborder and team names using certain characters
+ • Prevented stopwatch description label from appearing mid-game
+ • Properly centered conditions label in tournament ready mode
+ • Aligned arenaplayercount with roundcounter and removed old background
+ • Recolored sourcescheme and various matchmaking elements to better match the rest of the HUD/VGUI
+
+1.04 (UPDATE 2018-06-11)
+ • Fixed KOTH timers cutting off at some resolutions in tf_use_match_hud 1
+
+1.03 (UPDATE 2018-06-10)
+ • Updated tournament elements for both states of tf_use_match_hud
+ • Changed winpanel team names to be all caps
+ • Removed transparency from sourcescheme (server browser, console, etc)
+ • Cleaned up menu fonts
+
+1.02 (UPDATE 2018-05-19)
+ • Added transparency to match status
+ • Added new rank up message for competitive
+ • Repositioned 3D player model to the left
+ • Repositioned disguise status to the left
+ • Repositioned heads icon slightly to the left
+ • Repositioned killstreak icon slightly to the left
+ • Realigned targetid killstreak icon
+ • Realigned Thermal Thruster icon
+ • Cleaned up some menu fonts
+ • Moved crosshair legends and weapon scripts to /scripts/ to declutter root folder
+
+1.01 (UPDATE 2018-03-28)
+ • Updated info.vdf "ui_version" value to 3
+
+1.00 (RELEASE 2018-02-05)
+ • Initial release
