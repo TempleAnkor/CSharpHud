@@ -1,4 +1,7 @@
-﻿C SHARP CUSTOM HUD for TEAM FORTRESS 2
+I DID NOT CEATE THIS HUD, I AM ONLY POSTING IT HERE FOR EASIER DOWNLOADS AND SOME MAINTAINING.
+ORIGIONALLY CREATED BY SHREDDER.
+ 
+﻿C SHARP CUSTOM HUD for TEAM FORTRESS 2﻿
 VERSION 1.09 (UPDATE 2018-08-09)
 Developed by Shredder
 Maintained by Temple now i guess?
@@ -14,7 +17,9 @@ For more information see the included OFL.txt or visit http://scripts.sil.org/OF
 I.    INSTALLATION
 Ia.    INSTALLATION TROUBLESHOOTING
 II.   MENU HOTKEYS
-III.  SCOREBOARDS
+
+//III.  SCOREBOARDS - My version doesn't use the custom scoreboard, ignore.
+
 IV.   CLOSE CAPTIONS
 V.    CROSSHAIRS
 Va.    VTF CROSSHAIRS
@@ -86,10 +91,12 @@ Most in-game menus have hidden keyboard hotkeys for faster navigation:
 III.  SCOREBOARDS
 =============================================
 
-This custom HUD utilizes a 32-person scoreboard and a minimal competitive scoreboard
+My version doesn't use the custom scoreboard, ignore.
 
-Toggle through Advanced Options - HUD Options - Enable Minimal HUD
-or by typing "toggle cl_hud_minmode" into console
+//This custom HUD utilizes a 32-person scoreboard and a minimal competitive scoreboard
+//
+//Toggle through Advanced Options - HUD Options - Enable Minimal HUD
+//or by typing "toggle cl_hud_minmode" into console
 
 =============================================
 IV.   CLOSE CAPTIONS
